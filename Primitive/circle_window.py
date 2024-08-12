@@ -1,5 +1,4 @@
 import arcade
-from circle import get_circle
 from bresenham import get_line
 import math
 
